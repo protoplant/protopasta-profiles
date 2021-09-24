@@ -1,3 +1,3 @@
-# proto-pasta-profiles
+# Protopasta-profiles
 
 testing public repo in private org
